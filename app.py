@@ -10,7 +10,7 @@ from modules.user import (
     get_display_name,
     get_kari_id
 )
-from modules import board, karitunagari, chatkai, chatkai2, profilepagev2
+from modules import board, karitunagari, chatkai2, profilepagev2
 from modules.utils import now_str
 
 # --- 初期設定 ---
